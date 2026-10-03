@@ -126,6 +126,11 @@ disclosure guidance.
 - yolo rozeti deneme
 - Pair rozeti denemesi
 
+
+## Project case study
+
+CVera is an open-source project by [Umut Güngör](https://umutgungorr.com/). Read the [CVera case study](https://umutgungorr.com/projects/cvera) for its goals, technical decisions, and current limitations.
+
 ## License
 
 [MIT](LICENSE)
